@@ -1,0 +1,23 @@
+[33mcommit 651d85511cdd3fb10520f298722c552ba885d239[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m, [m[1;32mzoomer[m[33m)[m
+Author: zamer <zamer37573@gmail.com>
+Date:   Mon Oct 9 21:11:01 2023 +0500
+
+    remove multply function
+
+[33mcommit 6434a15442ea167a0d70824de4166853612c2c6b[m[33m ([m[1;32mmain[m[33m)[m
+Author: zamer <zamer37573@gmail.com>
+Date:   Mon Oct 9 20:52:18 2023 +0500
+
+    added test file
+
+[33mcommit 3d503e87b9a7666f6381a090ca3d27db6d8b7b33[m
+Author: zamer <zamer37573@gmail.com>
+Date:   Mon Oct 9 20:30:47 2023 +0500
+
+    added subtract function
+
+[33mcommit a6e611c813564984ca0b03e972dd32827a82a457[m
+Author: zamer <zamer37573@gmail.com>
+Date:   Mon Oct 9 20:22:25 2023 +0500
+
+    initial commit
